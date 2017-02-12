@@ -17,6 +17,7 @@ npm start
   webpack built 85c2c707377c6fe2e209 in 789ms
 ````
   after that open browser and to write in address field :  ``localhost:3000`` :)
+  
 
 ### for Second Solution (Only NodeJS) ###
 ```
@@ -25,6 +26,7 @@ cd second-solution
 node script.js
 ```
 after this you will be see result second solution
+See [script.js](https://github.com/truefunrun/basket-of-goods/blob/master/other-solutions/second-solution/script.js) to find out how it works
 
 ### for Third Solution (Only NodeJS) ###
 ```
@@ -33,3 +35,4 @@ cd third-solution
 node script.js
 ```
 after this you will be see result third solution
+See [script.js](https://github.com/truefunrun/basket-of-goods/blob/master/other-solutions/third-solution/script.js) to find out how it works
