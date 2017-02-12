@@ -1,0 +1,52 @@
+{
+  "rubles": {
+    "symbol": "₽",
+    "transfers": {
+      "dollars": 67,
+      "euros": 89,
+      "pounds": 89,
+      "yens": 89,
+      "rubles": 1
+    }
+  },
+  "dollars": {
+    "symbol": "$",
+    "transfers": {
+      "rubles": 59.035,
+      "euros": 0.9363,
+      "pounds": 0.7955,
+      "yens": 112.283,
+      "dollars": 1
+    }
+  },
+  "euros": {
+    "symbol": "€",
+    "transfers": {
+      "rubles": 67,
+      "dollars": 89,
+      "pounds": 89,
+      "yens": 89,
+      "euros": 1
+    }
+  },
+  "pounds": {
+    "symbol": "£",
+    "transfers": {
+      "rubles": 67,
+      "dollars": 89,
+      "euros": 89,
+      "yens": 89,
+      "pounds": 1
+    }
+  },
+  "yens": {
+    "symbol": "¥",
+    "transfers": {
+      "rubles": 67,
+      "dollars": 89,
+      "euros": 89,
+      "pounds": 89,
+      "yens": 1
+    }
+  }
+}
