@@ -1,8 +1,13 @@
-# Example app on ReactJS/Redux #
-
+<div align="center">
+  <a href="https://github.com/webpack/webpack">
+    <img width="200" height="200"
+      src="https://webpack.js.org/assets/icon-square-big.svg">
+  </a>
+  <h1>Example app on ReactJS/Redux</h1>
+</div>
 
 This project requires Node.js v6.5+ to run, this project using ECMASCRIPT-6 specification language of JavaScript
-##Installation##
+## Install ##
 
 Open console in 'basket-of-goods' folder and write:
 
